@@ -2,6 +2,12 @@ body {
   font-family: Trebuchet MS;
 }
 
+header {
+  font-family: initial ;
+  color: #FFFFFF ;
+  background: rgb(127, 127, 127) ;
+}
+
 a {
   color: rgb(255, 81, 0);
 }
@@ -13,7 +19,7 @@ a:hover{
 header {
   margin-bottom: 20px;
   padding: 20px;
-  border-bottom: 1px solid rgb(0, 174, 255);
+  border-bottom: 1px solid rgb(0, 0, 0);
 }
 
 header h1 {
@@ -37,7 +43,7 @@ header nav ul li {
 .project, #aboutme {
   margin-bottom: 20px;
   padding-bottom: 10px;
-  border-bottom: 1px solid rgb(0, 174, 255);
+  border-bottom: 1px solid rgb(0, 0, 0);
 }
 
 .project img, #aboutme img {
